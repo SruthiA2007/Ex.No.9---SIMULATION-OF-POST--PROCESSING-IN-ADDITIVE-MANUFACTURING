@@ -47,8 +47,11 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![Screenshot 2025-04-30 111352](https://github.com/user-attachments/assets/d6b39dab-cf0d-46ef-8ec3-1e97dede4feb)
+
+
+### Name: SRUTHI A
+### Register Number: 212224240162
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
